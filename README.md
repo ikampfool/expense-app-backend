@@ -67,4 +67,4 @@ Content-Type: application/json
 
 React Native App:
 
-👉 https://github.com/yourname/costflow-mobile
+👉 https://github.com/ikampfool/expense-app-mobile
